@@ -9,17 +9,17 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ## 5a
-1.import the required numpy and scipy libraries.
-2.get the input from the user 
-3.use the lu() function to decompose the matrix into lower
- triangular(L) and upper triangular(U) matrices.
-4.display the matrices as output
+1. import the required numpy and scipy libraries.
+2. get the input from the user 
+3. use the lu() function to decompose the matrix into lower
+  triangular(L) and upper triangular(U) matrices.
+4. display the matrices as output
 
 ## 5b
-1.import the required numpy and scipy libraries.
-2.get the input from the user 
-3.use lu_factor and lu_solve to factorise and solve the matrix
-4.display the matrices as output.
+1. import the required numpy and scipy libraries.
+2. get the input from the user 
+3. use lu_factor and lu_solve to factorise and solve the matrix
+4. display the matrices as output.
 
 ## Program:
 (i)5a. To find the L and U matrix
